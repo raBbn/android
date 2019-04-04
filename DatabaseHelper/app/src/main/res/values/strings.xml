@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DatabaseHelper</string>
+    <string name="Name">Your Name</string>
+    <string name="Address">Your Address</string>
+    <string name="Store">Store</string>
+    <string name="view">View</string>
+</resources>

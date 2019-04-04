@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">saveData</string>
+    <string name="address">Your Address</string>
+    <string name="name">Your Name</string>
+    <string name="phone">Your ph no.</string>
+    <string name="save">Save</string>
+    <string name="name1">display_name</string>
+    <string name="add2">display_address</string>
+    <string name="ph1">display_ph</string>
+    <string name="add">add_DB</string>
+
+</resources>
